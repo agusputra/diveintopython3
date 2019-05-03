@@ -110,3 +110,6 @@ dd {
   font-size: xx-large;
   line-height: 0.875;
 }
+body {
+  padding: 0 15px;
+}
