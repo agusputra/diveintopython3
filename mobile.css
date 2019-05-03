@@ -36,13 +36,13 @@ Acknowledgements & Inspirations
 /* typography */
 
 body, .c, span, pre span, .c, .note, p, ul, ol {
-  font:normal 12px/18px sans-serif;
+  /* font:normal 12px/18px sans-serif; */
 }
 pre, kbd, samp, code, var {
-  font:normal 12px/18px monospace;
+  /* font:normal 12px/18px monospace; */
 }
 .baa {
-  font:normal 14px/18px serif;
+  /* font:normal 14px/18px serif; */
 }
 abbr {
   font-variant:normal;
@@ -83,13 +83,13 @@ h1 {
   margin:0;
 }
 h1, h1 code {
-  font:normal 18px/18px serif;
+  /* font:normal 18px/18px serif; */
 }
 h2, h2 code {
-  font:normal 16px/18px serif;
+  /* font:normal 16px/18px serif; */
 }
 h3, h3 code {
-  font:normal 14px/18px serif;
+  /* font:normal 14px/18px serif; */
 }
 h1:before {
   content:"";
